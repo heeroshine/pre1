@@ -31,13 +31,13 @@
 	background: url(../images/divice-pagenations.png) no-repeat -35px 0px;
 	position: absolute;
 	right: -16%;
-	top: 25%;
+	top: 33%;
 }
 .owl-prev{
 	background: url(../images/divice-pagenations.png) no-repeat 0px 0px;
 	position: absolute;
 	left: -16.5%;
-	top:25%;
+	top: 33%;
 }
 /* Clickable class fix problem with hover on touch devices */
 /* Use it for non-touch hover action */
@@ -126,7 +126,7 @@
 .owl-carousel{
 	display: none;
 	position: relative;
-	width:50%;
+	width:60%;
 	-ms-touch-action: pan-y;
 	margin: 4em auto;
 }

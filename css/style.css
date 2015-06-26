@@ -5,7 +5,7 @@ License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 body{
-  font-family: 'Lato', sans-serif;
+  font-family: "Microsoft YaHei", STHeiti, sans-serif;
 }
 .mother{
 }
@@ -50,7 +50,7 @@ margin-top: 20px;
 	-moz-border-radius: 0.3em;
 	-o-border-radius: 0.3em;
 	-webkit-border-radius: 0.3em;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 }
 .top-nav ul li.active a span{
 	background:#e74c3c;
@@ -90,7 +90,7 @@ margin-top: 20px;
 	text-align: center;
 	font-size:6em;
 	margin:2% auto 0;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	font-weight:700;
 	color:#fff;
 }
@@ -98,7 +98,7 @@ margin-top: 20px;
 	text-align: center;
 	font-size:1.4em;
 	margin:3% auto 0;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	line-height: 1.9em;
 	font-weight:400;
 	color:#fff;
@@ -111,7 +111,7 @@ text-align: center;
 .slide-btn{
 	padding:0.7em 1em;
 	text-decoration:none;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	border:none;
 	margin-top:1.4em;
 	display: inline-block;
@@ -189,7 +189,7 @@ text-align: center;
 	line-height: 1.8em;
 	margin: 0em auto 0;
 	font-weight: 900;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	text-transform: uppercase;
 	padding-bottom: 4%;
 }
@@ -200,20 +200,20 @@ text-align: center;
 	left: 45%;
 	width: 9%;
 }
-.service-grid1 h3 ,.service-grid2 h3,.service-grid3 h3{
+.service-grid1 h3 ,.service-grid2 h3,.service-grid3 h3,.service-grid4 h3{
 	color: #2980B9;
 	font-size:2em;
 	margin: 0.2em auto;
 	text-transform:uppercase;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	font-weight:900;
 	text-align: center;
 }
-.service-grid1 p,.service-grid2 p,.service-grid3 p {
+.service-grid1 p,.service-grid2 p,.service-grid3 p,.service-grid4 p {
 	text-align: center;
 	font-size: 1.2em;
 	margin:1% auto 0;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	line-height: 1.7em;
 	font-weight: 400;
 	color: #343433;
@@ -221,6 +221,9 @@ text-align: center;
 }
 .service-grid2 {
 	margin-top: 5em;
+}
+.service-grid4 {
+	margin-top: 10em;
 }
 i.icon1 {
 	width: 97px;
@@ -265,7 +268,7 @@ background: url(../images/bg.png) #ECF0F1 100% 100%;
 	padding-top: 1em;
 	margin: 0em auto 0;
 	font-weight: 900;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	text-transform: uppercase;
 }
 .port-section lable {
@@ -281,7 +284,7 @@ background: url(../images/bg.png) #ECF0F1 100% 100%;
 	position:relative;
 	display:inline-block;
 	vertical-align:top;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	font-weight: 400;
 	overflow:hidden;
 }
@@ -323,7 +326,7 @@ background: url(../images/bg.png) #ECF0F1 100% 100%;
 	-webkit-transition: all 0.5s;
 	visibility: hidden;
 	font-size:1.1em;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	font-weight: 400;
 	width:90%;
 	margin:2% auto;
@@ -346,7 +349,7 @@ background: url(../images/bg.png) #ECF0F1 100% 100%;
 span.m_4{
 	font-size:25px;
 	font-weight:400;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 }
 p.m_5 {
 	margin: 2% auto 5%;
@@ -434,7 +437,7 @@ ul#filters {
 		cursor: pointer;
 		font-size: 20px;
 		font-weight: 600;
-		font-family: 'Lato', sans-serif;
+		font-family: "Microsoft YaHei", STHeiti, sans-serif;
 		background: none;
 		transition: all 0.5s ease;
 		-moz-transition: all 0.5s ease;
@@ -457,11 +460,11 @@ ul#filters {
 		-webkit-box-sizing: border-box;
 		-moz-box-sizing: border-box;
 		-o-box-sizing: border-box;
-		width: 30%;
+		width: 31%;
 		display:none;
 		float:left;
 		overflow:hidden;
-		margin:0 1% 1% 0;
+		margin:1% 1%;
 		 border-radius: 0;
 	}
 	div#portfoliolist {
@@ -556,24 +559,24 @@ ul#filters {
 	line-height: 1.8em;
 	margin: 0em auto 0;
 	font-weight: 900;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	text-transform: uppercase;
 }
 .team-section p {
 	text-align: center;
 	font-size: 1.4em;
 	margin: 3% auto 0;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	line-height: 1.7em;
 	font-weight: 400;
 	color: #343433;
-	width: 50%;
+	width: 70%;
 }
 .team_grid1 h4,.team_grid2 h4,.team_grid3 h4,.team_grid4 h4 {
 	text-align: center;
 	font-size: 1.2em;
 	margin:1% auto 0;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	line-height: 1.7em;
 	font-weight: 400;
 	color: #343433;
@@ -592,7 +595,7 @@ ul#filters {
 	font-size: 1.3em;
 	margin: 0.2em auto;
 	text-transform: uppercase;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	font-weight: 900;
 	text-align: center;
 	line-height: 1.5em;
@@ -744,7 +747,7 @@ div#offices{
 	color: #fff;
 	font-size: 22px;
 	font-weight: 600;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	transition: 0.5s all ease;
 	-webkit-transition: 0.5s all ease;
 	-o-transition:0.5s all ease;
@@ -807,23 +810,23 @@ div#offices{
 	line-height: 1.8em;
 	margin: 0em auto 0;
 	font-weight: 900;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	text-transform: uppercase;
 }
 .offices-section  p {
 	text-align: center;
 	font-size: 1.4em;
-	margin:1% auto 0;
-	font-family: 'Lato', sans-serif;
+	margin:1% auto 5%;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	line-height: 1.7em;
 	font-weight: 400;
 	color: #fff;
-	width: 50%; 
+	width: 70%;
 }
 .offices-section lable {
 	border-bottom: 4px solid#fff;
 	position: absolute;
-	top: 41%;
+	top: 19%;
 	left: 46.5%;
 	width: 7%;
 }
@@ -839,23 +842,24 @@ div#offices{
 	line-height: 1.8em;
 	margin: 0em auto 0;
 	font-weight: 900;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	text-transform: uppercase;
 }
 .client-section  p {
-	text-align: center;
+	text-align: left;
 	font-size: 1.4em;
 	margin:1% auto 0;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	line-height: 1.7em;
 	font-weight: 400;
 	color:#343433;
-	width: 50%; 
+	width: 80%;
+	text-indent: 2em;
 }
 .client-section lable {
 	border-bottom: 4px solid#343433;
 	position: absolute;
-	top:39%;
+	top:21%;
 	left: 45.5%;
 	width: 9%;
 }
@@ -875,9 +879,9 @@ padding: 0;
 /*------text-slide----------*/
 .item h4{
 	color: #343433;
-	font-size: 1.4em;
+	font-size: 2.4em;
 	text-align: center;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	font-weight: 600;
 	margin: 0.5em 0;
 }
@@ -886,7 +890,7 @@ padding: 0;
 	color: #343433;
 	font-size: 1.35em;
 	text-align: center;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	line-height: 1.8em;
 	font-weight: 500;
 	font-style: italic;
@@ -912,7 +916,7 @@ div#contact{
 	line-height: 1.8em;
 	margin: 0em auto 0;
 	font-weight: 900;
-	font-family: 'Lato', sans-serif;
+	font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	text-transform: uppercase;
 }
 .contact-section lable {
@@ -1098,9 +1102,9 @@ form{
 .copy-right  p{
 	color:#343433;
 	font-size:1.1em;
-	text-align: center;
+	text-align: right;
 	text-transform: uppercase;
-   font-family: 'Lato', sans-serif;
+   font-family: "Microsoft YaHei", STHeiti, sans-serif;
 	margin-top:1.3em;
 }
 .copy-right p a{
@@ -1163,13 +1167,13 @@ form{
 	width: 9%;
 	}
 	.team-section lable {
-	top: 35%;
+	top: 6%;
 	left: 45.5%;
 	width: 9%;
 	}
 	.logo-2 {
 	float: left;
-	margin-left: 8%;
+	margin-left: 10%;
 	}
 	i.icon1 {
 	width: 97px;
@@ -1259,7 +1263,7 @@ form{
 	color: #343433;
 	width: 55%;
 	}
-	.service-grid1 h3, .service-grid2 h3, .service-grid3 h3 {
+	.service-grid1 h3, .service-grid2 h3, .service-grid3 h3,.service-grid4 h3 {
 	font-size: 1.7em;
 	}
 	div#portfolio {
@@ -1482,7 +1486,7 @@ form{
 	width: 10%;
 	border-bottom: 3px solid#343433;
 	}
-	.service-grid1 h3, .service-grid2 h3, .service-grid3 h3 {
+	.service-grid1 h3, .service-grid2 h3, .service-grid3 h3,.service-grid4 h3 {
 		font-size: 1.4em;
 	}
 	.port-section lable {
@@ -1755,7 +1759,7 @@ form{
 	.team-section h3, .port-section h3, .service-section h3, .client-section h3, .offices-section h3 {
 	font-size: 1.7em;
 	}
-	.service-grid1 h3, .service-grid2 h3, .service-grid3 h3 {
+	.service-grid1 h3, .service-grid2 h3, .service-grid3 h3,.service-grid4 h3 {
 		font-size: 1.3em;
 	}
 	.service-grid1 p, .service-grid2 p, .service-grid3 p {
@@ -1939,7 +1943,7 @@ form{
 		left: 39.7%;
 		width: 20%;
 	}
-	.service-grid1 h3, .service-grid2 h3, .service-grid3 h3 {
+	.service-grid1 h3, .service-grid2 h3, .service-grid3 h3,.service-grid4 h3 {
 	font-size: 1.2em;
 	}
 	.service-grid1 p, .service-grid2 p, .service-grid3 p {
